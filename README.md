@@ -47,3 +47,17 @@ The analysis identified settlement/delivery issues as the largest risk lever, co
 ## Project File
 
 [Download the Excel Model](./Trade_Settlement_Risk_Model_Project.xlsx)
+
+## Model Screenshots
+
+### Assumptions
+![Assumptions](screenshots/assumptions.png)
+
+### Probability Analysis
+![Probability Analysis](screenshots/probability_analysis.png)
+
+### Sensitivity Analysis
+![Sensitivity Analysis](screenshots/sensitivity_analysis.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
